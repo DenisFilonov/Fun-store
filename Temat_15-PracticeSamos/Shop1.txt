@@ -1,0 +1,34 @@
+Book
+Чёрный день
+2500
+18
+Алексей Доронин
+Золотое
+Toy
+Плюшевый мишка
+1500
+6
+Укр.Игрушки
+Пух
+Sport inventory
+Ролики
+5500
+12
+Укр.Спорт.Товары
+Book
+Some name
+12.1
+6
+Some name
+Some edition
+Toy
+Some name
+12.1
+6
+Some manufacturer
+Some material
+Sport inventory
+Some name
+12.1
+6
+Some manufacturer
