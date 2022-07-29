@@ -177,21 +177,21 @@ void main()
 			break;
 
 		case 4:
-			cout << "\nInput name of commodity:";
+			cout << "\nInput name of commodity: ";
 			cin.ignore();
 			getline(cin, str);
 			sh.deleteCommodity(str);
 			break;
 
 		case 5:
-			cout << "\nInput type of commodity:";
+			cout << "\nInput type of commodity: ";
 			cin.ignore();
 			getline(cin, str);
 			sh.showCurrentType(str);
 			break;
 
 		case 6:
-			cout << "\nInput name of commodity:";
+			cout << "\nInput name of commodity: ";
 			cin.ignore();
 			getline(cin, str);
 			sh.findCommodityByName(str);

@@ -87,7 +87,7 @@ bool dwAge(const Commodity* a, const Commodity* b)
 
 bool upType(const Commodity* a, const Commodity* b)
 {
-    return a->type() > b->type();
+    return a->type() < b->type();
 }
 
 bool dwType(const Commodity* a, const Commodity* b)

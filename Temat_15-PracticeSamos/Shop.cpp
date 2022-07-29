@@ -375,9 +375,10 @@ void Shop::showCurrentType(string type) const&
         if (arr[i]->type() == type)
         {
             cout << "\n\tCommodity {" << type << "}:";
-            arr[i++]->show();
+            arr[i]->show();
             check++;
         }
+        i++;
     }
     if (check == 0) cout << "\nError. The type wasn't found.\n\n";
 }
